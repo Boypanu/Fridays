@@ -50,4 +50,5 @@
 2. Run:
 
    ```bash
-   docker-compose
+   docker-compose up --build
+   ```
