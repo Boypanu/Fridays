@@ -7,13 +7,13 @@
    เปิด Command Prompt หรือ Terminal แล้วรันคำสั่งนี้ (เปลี่ยน `your-username` และ `your-repo` ให้ตรงกับ repository จริง):
 
    ```
-   git clone https://github.com/your-Boypanu/your-Friday.git
+   git clone https://github.com/Boypanu/Friday.git
    ```
 
 2. **เข้าไปในโฟลเดอร์โปรเจกต์**
 
    ```
-   cd your-repo
+   cd Friday
    ```
 
 3. **ติดตั้ง dependencies ที่จำเป็น**
