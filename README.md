@@ -35,7 +35,7 @@
 5. **Test the API**
 
    Open your browser or use a tool like Postman and go to  
-   [http://localhost:5001/api2](http://localhost:5001/api2)
+   [http://127.0.0.1:5000/api_1](http://127.0.0.1:5000/api_1)
 
 ---
 **Note:**  
