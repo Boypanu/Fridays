@@ -1,14 +1,14 @@
 services:
   api1:
     build: ./api1
-    image: api1-image
+    container_name: api_1
     ports:
-      - "8080:5000"
+      - "5000:5000"
     depends_on:
       - api2
 
   api2:
     build: ./api2
-    image: api2-image
+    container_name: api_2
     ports:
-      - "8081:5001"
+      - "5001:5001"
