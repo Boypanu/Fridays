@@ -7,13 +7,13 @@
    Open Command Prompt or Terminal and run:
 
    ```
-   git clone https://github.com/Boypanu/Friday.git
+   git clone https://github.com/Boypanu/Fridays.git
    ```
 
 2. **Navigate to the project folder**
 
    ```
-   cd Friday
+   cd Fridays
    ```
 
 3. **Install required dependencies**
