@@ -7,7 +7,7 @@
    เปิด Command Prompt หรือ Terminal แล้วรันคำสั่งนี้ (เปลี่ยน `your-username` และ `your-repo` ให้ตรงกับ repository จริง):
 
    ```
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/your-Boypanu/your-Friday.git
    ```
 
 2. **เข้าไปในโฟลเดอร์โปรเจกต์**
