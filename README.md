@@ -1,24 +1,24 @@
 # README.md
 
-## วิธีการติดตั้งและใช้งานโปรเจกต์นี้
+## How to Install and Run This Project
 
-1. **Clone โปรเจกต์จาก GitHub**
+1. **Clone the project from GitHub**
 
-   เปิด Command Prompt หรือ Terminal แล้วรันคำสั่งนี้ (เปลี่ยน `your-username` และ `your-repo` ให้ตรงกับ repository จริง):
+   Open Command Prompt or Terminal and run:
 
    ```
    git clone https://github.com/Boypanu/Friday.git
    ```
 
-2. **เข้าไปในโฟลเดอร์โปรเจกต์**
+2. **Navigate to the project folder**
 
    ```
    cd Friday
    ```
 
-3. **ติดตั้ง dependencies ที่จำเป็น**
+3. **Install required dependencies**
 
-   แนะนำให้ใช้ Python virtual environment:
+   It is recommended to use a Python virtual environment:
 
    ```
    python -m venv venv
@@ -26,21 +26,21 @@
    pip install -r requirements.txt
    ```
 
-4. **รันแอปพลิเคชัน**
+4. **Run the application**
 
    ```
    python app.py
    ```
 
-5. **ทดสอบ API**
+5. **Test the API**
 
-   เปิดเบราว์เซอร์หรือใช้โปรแกรมเช่น Postman ไปที่  
+   Open your browser or use a tool like Postman and go to  
    [http://localhost:5001/api2](http://localhost:5001/api2)
 
 ---
-**หมายเหตุ:**  
-- ตรวจสอบให้แน่ใจว่าติดตั้ง Python เวอร์ชัน 3.7 ขึ้นไป
-- หากยังไม่มีไฟล์ `requirements.txt` ให้เพิ่มชื่อไลบรารีที่ใช้
+**Note:**  
+- Make sure you have Python 3.7 or higher installed.
+- If you don't have a `requirements.txt` file, add the required libraries such as `flask`.
 
 # Two APIs with Docker Compose
 
@@ -50,5 +50,4 @@
 2. Run:
 
    ```bash
-   docker-compose up --build
-   ```
+   docker-compose
