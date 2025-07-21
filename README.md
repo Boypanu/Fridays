@@ -32,11 +32,12 @@
    python app.py
    ```
 
-5. **Test the API**
-
+5. **Test**
+   GET
    Open your browser or use a tool like Postman and go to  
-   [http://127.0.0.1:5000/api_1](http://127.0.0.1:5000/api_1)
-
+   http://127.0.0.1:5000/api_1
+   POST
+   http://localhost:5001/api2
 ---
 **Note:**  
 - Make sure you have Python 3.7 or higher installed.
